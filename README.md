@@ -1,2 +1,3 @@
 # Proyecto-Grafos
-Proyecto de la semana 3 acerca de grafos.
+Avances Semanales de Estructura de Datos Avanzda (Actualizado hasta la 5).
+Trabajando en la 6...
