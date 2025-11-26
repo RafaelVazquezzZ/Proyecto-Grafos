@@ -1,3 +1,2 @@
 # Proyecto-Grafos
-Avances Semanales de Estructura de Datos Avanzda (Actualizado hasta la 5).
-Trabajando en la 6...
+Avances Semanales de Estructura de Datos Avanzda (Actualizado hasta la 7).
